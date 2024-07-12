@@ -2,7 +2,7 @@
 ---
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="250"/>
 
 
 <div id="badges">
