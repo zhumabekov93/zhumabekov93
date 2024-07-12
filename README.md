@@ -1,1 +1,3 @@
-<div class="tenor-gif-embed" data-postid="13271998" data-share-method="host" data-aspect-ratio="1.33663" data-width="100%"><a href="https://tenor.com/view/working-from-home-computer-homework-gif-13271998">Working From GIF</a>from <a href="https://tenor.com/search/working-gifs">Working GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="100"/>
+</div>
