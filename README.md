@@ -1,4 +1,4 @@
-### :About me: 
+### Hello, there :wave:
 ---
 
 <div id="header" align="center">
